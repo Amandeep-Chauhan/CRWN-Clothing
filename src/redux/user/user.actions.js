@@ -1,3 +1,4 @@
+import { Component } from "react";
 import { UserActionTypes } from "./user.types";
 
 export const setCurrentUser = (user) => ({
